@@ -26,6 +26,7 @@ Este projeto faz parte da disciplina de PIME (Projeto Integrador Multidisciplina
 📄 Licença
 
 O código-fonte deste software, atualmente para fins acadêmicos, é disponibilizado apenas para visualização e referência; modificação, redistribuição ou criação de obras derivadas são estritamente proibidas até nova determinação.
+
 This software's source code, currently for academic purposes, is provided solely for viewing and reference purposes; modification, redistribution, or derivative works are strictly prohibited until further notice.
 
 Dúvidas/Inquiries: 25118021@belasartes.edu.br (Luiz)
