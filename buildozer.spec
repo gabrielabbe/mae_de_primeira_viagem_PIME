@@ -1,7 +1,7 @@
 [app]
 title = MPVCalculadoraLeiteMaternoKivy
 package.name = mpvclmk
-package.domain = org.bapimegrupo11appmpv
+package.domain = org.bapimegrupo9appmpv
 version = 1.0.0
 
 source.dir = .
