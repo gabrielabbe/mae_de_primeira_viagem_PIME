@@ -23,6 +23,8 @@ Este projeto faz parte da disciplina de PIME (Projeto Integrador Multidisciplina
    
    buildozer -v android debug
 
+Veja esse vídeo de passo-a-passo para compilar, em 20 minutos, um build desse aplicativo (dentro de uma WSL de Ubuntu): https://www.youtube.com/watch?v=0Tg9AhpJljY
+
 📄 Licença
 
 O código-fonte deste software, atualmente para fins acadêmicos, é disponibilizado apenas para visualização e referência; modificação, redistribuição ou criação de obras derivadas são estritamente proibidas até nova determinação.
