@@ -311,12 +311,12 @@ Este projeto foi desenvolvido especificamente para vocês. Para contribuir:
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido especificamente para Luis e Grupo PIME. Todos os direitos reservados.
+Este projeto foi desenvolvido especificamente para o Projeto Integrador Multidisciplinar Extensionista (PIME) do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário Belas Artes de São Paulo composto por Bruno P. S., Gabriel A. da S., Jefferson de L. P. e Luiz R. M. Todos os direitos reservados.
 
 ## 🙏 Agradecimentos
 
-- **Sociedade Brasileira de Pediatria**: Pelas diretrizes utilizadas
-- **Ministério da Saúde**: Pela Caderneta da Criança
+- **Sociedade Brasileira de Pediatria**: Pelas diretrizes utilizadas e outras fontes pesquisadas.
+- **Ministério da Saúde**: Pela Caderneta da Criança e outras fontes pesquisadas.
 - **Comunidade Flutter**: Pelo framework e recursos
 - **Mães de primeira viagem**: Pela inspiração do projeto
 
